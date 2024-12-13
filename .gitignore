@@ -1,0 +1,4 @@
+.env
+yolov5su.pt
+data/feed.mp4
+.DS_Store

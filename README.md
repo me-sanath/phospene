@@ -42,6 +42,16 @@ This project implements an indoor navigation system that provides real-time audi
 - Converts detected obstacles and navigation instructions into concise audio cues.
 - Uses the Groq API for generating responses.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/787f5941-8b08-4950-9fe5-b758e5777488)
+![image](https://github.com/user-attachments/assets/3b2e8b26-eb76-4835-b271-116dc2ba0c49)
+![image](https://github.com/user-attachments/assets/e0f68184-b018-4152-972a-07d0bb9ba3bc)
+![image](https://github.com/user-attachments/assets/785a735e-6dc8-46b5-ba8b-a0460ed1f33f)
+![image](https://github.com/user-attachments/assets/5c3a91cb-4c01-401a-8b77-7ff23800a991)
+
+
+
+
 ## Future Scope
 - Integration with LiDAR for more precise mapping and obstacle detection.
 - Improved audio feedback using advanced language models for personalized navigation assistance.
